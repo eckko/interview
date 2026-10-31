@@ -9,6 +9,11 @@
       "folder": "bbg-how-to-write-a-good-resume",
       "id": "how-to-write-a-good-resume",
       "title": "How to write a good resume"
+    },
+    {
+      "folder": "lt-algorithm",
+      "id": "leetcode-algorithms",
+      "title": "LeetCode - Algorithms"
     }
   ]
 }
