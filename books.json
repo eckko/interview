@@ -1,6 +1,11 @@
 {
   "books": [
     {
+      "folder": "bbg-behavioral-interview",
+      "id": "bbg-behavioral-interview",
+      "title": "BBG Behavioral Interview"
+    },
+    {
       "folder": "bbg-how-to-write-a-good-resume",
       "id": "how-to-write-a-good-resume",
       "title": "How to write a good resume"
