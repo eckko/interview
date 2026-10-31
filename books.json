@@ -14,6 +14,11 @@
       "folder": "lt-algorithm",
       "id": "leetcode-algorithms",
       "title": "LeetCode - Algorithms"
+    },
+    {
+      "folder": "java",
+      "id": "java-tutorials-oracle",
+      "title": "The Java Tutorials (Oracle and dev.java)"
     }
   ]
 }
