@@ -1,0 +1,22 @@
+/*
+ * Interview: sign-in screen "Spotlight" (black stage, a spotlight on two chairs facing each other).
+ * Loaded by the subject-site-template UI (2.x) after its own css/hub.css,
+ * named in subject.json "theme". Only variables and the art area are set;
+ * the url() is relative to this file. No book content here.
+ */
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap");
+
+:root {
+  --gate-bg: #111111;
+  --gate-fg: #ffffff;
+  --gate-muted: #cfcfd6;
+  --gate-button-bg: #ffcf5c;
+  --gate-button-fg: #111111;
+  --gate-heading-font: "Manrope", system-ui, sans-serif;
+  --gate-focus: #ffcf5c;
+}
+
+#gate .gate-art {
+  min-height: 42vh;
+  background: url("spotlight.svg") center / contain no-repeat;
+}
