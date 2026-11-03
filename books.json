@@ -26,6 +26,15 @@
         "quiz",
         "read"
       ]
+    },
+    {
+      "folder": "bbg-machine-learning-design-interview",
+      "id": "bbg-machine-learning-design-interview",
+      "title": "Machine Learning System Design Interview",
+      "views": [
+        "quiz",
+        "read"
+      ]
     }
   ]
 }
