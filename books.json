@@ -1,24 +1,3 @@
 {
-  "books": [
-    {
-      "folder": "bbg-behavioral-interview",
-      "id": "bbg-behavioral-interview",
-      "title": "BBG Behavioral Interview"
-    },
-    {
-      "folder": "bbg-how-to-write-a-good-resume",
-      "id": "how-to-write-a-good-resume",
-      "title": "How to write a good resume"
-    },
-    {
-      "folder": "lt-algorithm",
-      "id": "leetcode-algorithms",
-      "title": "LeetCode - Algorithms"
-    },
-    {
-      "folder": "java",
-      "id": "java-tutorials-oracle",
-      "title": "The Java Tutorials (Oracle and dev.java)"
-    }
-  ]
+  "books": []
 }
