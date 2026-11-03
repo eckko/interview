@@ -35,6 +35,15 @@
         "quiz",
         "read"
       ]
+    },
+    {
+      "folder": "bbg-system-design-interview",
+      "id": "system-design-interview",
+      "title": "System Design Interview",
+      "views": [
+        "quiz",
+        "read"
+      ]
     }
   ]
 }
