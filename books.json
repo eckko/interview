@@ -17,6 +17,15 @@
         "quiz",
         "read"
       ]
+    },
+    {
+      "folder": "lt-algorithm",
+      "id": "leetcode-algorithms",
+      "title": "LeetCode - Algorithms",
+      "views": [
+        "quiz",
+        "read"
+      ]
     }
   ]
 }
