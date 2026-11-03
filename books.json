@@ -37,6 +37,15 @@
       ]
     },
     {
+      "folder": "bbg-object-oriented-design-interview",
+      "id": "object-oriented-design-interview",
+      "title": "Object-Oriented Design Interview",
+      "views": [
+        "quiz",
+        "read"
+      ]
+    },
+    {
       "folder": "bbg-system-design-interview",
       "id": "system-design-interview",
       "title": "System Design Interview",
