@@ -1,7 +1,7 @@
 {
   "title": "Interview",
   "templateTag": "3.2.8",
-  "uiVersion": "2",
+  "uiVersion": "3.0.6",
   "theme": {
     "css": ".theme/gate.css",
     "icon": ".theme/icon.svg",
